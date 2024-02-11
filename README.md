@@ -11,6 +11,10 @@
 ### Router
 - https://reactrouter.com/en/main/fetch/redirect
 
+## React note
+### upload file
+- https://codevoweb.com/react-rtk-query-react-hook-form-and-material-ui-multipart-formdata/
+
 ## Redux with React
 ### note
 - https://redux.js.org/tutorials/essentials/part-5-async-logic Redux Essentials, Part 5: Async Logic and Data Fetching
