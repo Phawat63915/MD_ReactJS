@@ -3,6 +3,7 @@
 # Framework 
 - https://react-hook-form.com/
     - https://refine.dev/docs/packages/react-hook-form/use-form/
+- https://use-http.com/#/ fake hook library
 
 # react.dev
 - https://react.dev/learn/scaling-up-with-reducer-and-context
